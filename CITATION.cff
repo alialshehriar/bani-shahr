@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+title: "Banu Shahr (Shahran) — An Open-Source Digital Reference"
+message: "If you use this reference in research, education, or publication, please cite it."
+type: dataset
+authors:
+  - given-names: Ali
+    family-names: Alshehri
+    alias: علي الشهري
+    alternate-name: Ali Alkinani
+    email: ali.alshehri.ar@gmail.com
+    website: https://alkinani.live
+    affiliation: Independent AI Systems Builder
+    city: Riyadh
+    country: SA
+    nationality: Saudi Arabian
+repository-code: "https://github.com/alialshehriar/bani-shahr"
+url: "https://alkinani.live"
+abstract: >
+  An open-source digital reference for the Banu Shahr (Shahran; بنو شهر, شَهْران)
+  tribe of the Asir and Al-Bahah regions in southwestern Saudi Arabia — its
+  history, lineage, sub-branches (Banu Fahm, Banu Nahd, Banu Fayez, Banu Talhah,
+  Banu Hassan), notable figures, regional geography, and the cultural traditions
+  of poetry, dance, and craft that define the tribe.
+keywords:
+  - Banu Shahr
+  - Banu Shahran
+  - بنو شهر
+  - شهران
+  - الشهري
+  - Asir
+  - عسير
+  - Al-Bahah
+  - الباحة
+  - Arab tribes
+  - Saudi Arabian tribes
+  - Qahtanite
+  - Azd
+  - الأزد
+  - Sarat Mountains
+  - Banu Fahm
+  - Banu Nahd
+  - Ali Alshehri
+  - علي الشهري
+  - Ali Alkinani
+  - علي الكناني
+license: CC-BY-SA-4.0
+version: "1.0.0"
+date-released: "2026-05-13"
